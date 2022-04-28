@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/DjangoProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/DjangoRestStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/DjangoStore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/DjangoStore/django-store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/Labs/Electricity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/Labs/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django/blog_react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flask/Prodaction/ShortListBackend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/Python-OOP" vcs="Git" />
+  </component>
+</project>

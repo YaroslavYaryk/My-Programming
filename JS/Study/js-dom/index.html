@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
+	<title>JavaScript. Браузерное окружение. Работа с DOM.</title>
+</head>
+
+<body>
+	<h1>
+		<span class="yellow">JavaScript.</span>
+		Браузерное окружение.
+		Работа с <span class="yellow">DOM.</span>
+	</h1>
+	<h3>Урок №13</h3>
+	<div class="lesson">
+		<div class="lesson__text">Text</div>
+		<ul class="lesson__list" name="list">
+			<li class="lesson__item-list lesson__item-list-red">пункт1</li>
+			<a class="lesson__link" href="https://google.com">some_link</a>
+			<li id="list" class="lesson__item-list">пункт2</li>
+			<li class="lesson__item-list">пункт3
+				<ul class="lesson__sub-list">
+					<li class="lesson__item-sub-list">Підпункт1</li>
+					<li data-item="05" class="lesson__item-sub-list">Підпункт2</li>
+					<li class="lesson__item-sub-list">Підпункт3</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<script src="js/script.js"></script>
+</body>
+
+</html>
